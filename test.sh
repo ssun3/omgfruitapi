@@ -9,6 +9,6 @@ go get github.com/onsi/ginkgo/ginkgo
 go get github.com/onsi/gomega
 go get github.com/gorilla/mux
 
-ginkgo $GOPATH/src/github.com/jwfriese/omgfruitapi/fruit
+ginkgo $GOPATH/src/github.com/ssun3/omgfruitapi/fruit
 
-$GOPATH/src/github.com/jwfriese/omgfruitapi/release.sh
+$GOPATH/src/github.com/ssun3/omgfruitapi/release.sh
